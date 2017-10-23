@@ -29,4 +29,4 @@ We will spend some time setting up your computer, downloading the tools that you
 
 ##### 5. Complete the setup guide for your computer's operating system
 
-  - [Mac OS X](prework/mac/1_terminal.md)
+  - [Mac OS X](tools/mac/1_terminal.md)
